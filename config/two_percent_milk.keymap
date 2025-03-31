@@ -14,8 +14,8 @@
 
         default_layer {
             bindings = <
-                &kp A
-                &kp X
+                &kp Krill
+                &kp Yourself
             >;
         };
     };
