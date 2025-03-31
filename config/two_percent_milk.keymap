@@ -14,8 +14,8 @@
 
         default_layer {
             bindings = <
-                &kp The quick brown fox jumps over the lazy dog
-                &kp Sigma gyatt ohio rizzler
+                &kp A
+                &kp X
             >;
         };
     };
